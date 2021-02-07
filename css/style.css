@@ -31,3 +31,8 @@ ul {
 .auto-nav .link:focus {
   color: var(--blue-text);
 }
+
+/* section mail */
+.section-title {
+  color: var(--black-text)
+}
