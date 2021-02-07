@@ -1,15 +1,22 @@
 :root { 
 
   --blue-text: rgba(33, 150, 243, 1); 
+
   --logo-text: rgba(0, 0, 0, 1); 
+
   --black-text: rgba(33,33,33,1);
 
-  --grey-text: rgba(117,117,117,1); 
-  --grey-text-op60: rgba(255, 255, 255, 0.6);
-  
-  /* белый цвет--white-text: rgba(255,255,255,1); */
 
-  /* первичный цвет фона--back-color-white: rgba(255,255,255,1); */
-  /* вторичный цвет фона--back-white: rgba(245,244,250,1); */
-  --back-color-black: rgba(47,48,58,1);
+  --grey-text: rgba(117,117,117,1); 
+
+
+  --white-text-op60: rgba(255, 255, 255, 0.6);
+  
+  --white-text: rgba(255,255,255,1); 
+
+
+  --background-white: rgba(245,244,250,1); 
+
+  --background-black: rgba(47,48,58,1);
+
 }
