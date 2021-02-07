@@ -3,6 +3,31 @@ body {
   color: rgba(33,33,33,1);
 }
 
+.logo {
+  color: rgba(0, 0, 0, 1);
+}
+
 ul {
   list-style: none;
+}  
+
+/* site-nav */
+
+.site-nav .link {
+  color: var(--black-text)
+}
+
+.site-nav .link:hover, 
+.site-nav .link:focus {
+  color: var(--blue-text)
+}
+
+/* auth-nav */
+.auto-nav .link  {
+  color: var(--grey-text);
+}
+
+.auto-nav .link:hover,
+.auto-nav .link:focus {
+  color: var(--blue-text);
 }
