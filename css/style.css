@@ -82,6 +82,44 @@ ul {
 
 /* кнопки */
 .button  {
-  background-color: var(--blue-text);
+  background-color: var(--backgroung-white);
   color: var(--black-text);
+}
+
+.button:hover,
+.button:focus {
+  color: var(--white-text);
+  background-color: var(--blue-text);
+}
+
+/* portfolio-site */
+.site-title {
+  color: var(--black-text);
+}
+
+/* footer-portfolio */
+.footer-portfolio {
+  background-color: var(--background-black);
+}
+
+.footer-portfolio-logo {
+  color: var(--blue-text);
+}
+
+.footer-portfolio-span {
+  color: var(--white-text);
+}
+
+
+.footer-portfolio-address {
+  color: var(--white-text);
+}
+
+.footer-portfolio .link {
+  color: var(--white-text-op60);
+}
+
+.footer-portfolio .link:hover,
+.footer-portfolio .link:focus {
+  color: var(--blue-text);
 }
