@@ -64,6 +64,7 @@ p {
   font-size: 26px;
   line-height: 1,19;
   letter-spacing: 0.03em;
+  text-decoration: none;
 
 } 
 
@@ -73,6 +74,7 @@ p {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
+  text-decoration: none;
 
 }
 
@@ -88,6 +90,7 @@ ul {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 
 .site-nav .link:hover, 
@@ -104,6 +107,7 @@ ul {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  text-decoration: none;
 
 }
 
@@ -160,6 +164,7 @@ ul {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
+  text-decoration: none;
 } 
 
 .footer-span {
@@ -170,6 +175,7 @@ ul {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
+  text-decoration: none;
 }
 
 .footer-address {
@@ -184,6 +190,7 @@ ul {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
+  text-decoration: none;
 }
 
 .footer .link:hover,
