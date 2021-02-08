@@ -200,8 +200,9 @@ ul {
 }
 
 /* кнопки */
-.button  {
+main .button  {
   font-family: Robot, sans-serif;
+  
   background-color: var(--backgroung-white);
   color: var(--black-text);
   font-weight: 500;

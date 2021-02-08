@@ -54,7 +54,7 @@ Improve consistency of default fonts in all browsers. (https://github.com/sindre
 
 body {
   font-family: system-ui, -apple-system, /* Firefox supports this but not yet `system-ui` */ "Segoe UI", Roboto,
-    Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    , sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
 
 /*
@@ -160,7 +160,7 @@ Forms
 2. Remove the margin in Firefox and Safari.
 */
 
-button,
+
 input,
 optgroup,
 select,
