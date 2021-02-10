@@ -133,9 +133,9 @@ ul {
 }
 
 .hero-button {
+  font-family: Roboto, sans-serif;
   color: var(--white-text);
   background-color: var(--blue-text);
-  font-family: Roboto, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -201,14 +201,13 @@ ul {
 
 /* кнопки */
 main .button  {
-  font-family: Robot, sans-serif;
-  
   background-color: var(--backgroung-white);
   color: var(--black-text);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.63;
   letter-spacing: 0.03em;
+  font-family: inherit;
 }
 
 .button:hover,
